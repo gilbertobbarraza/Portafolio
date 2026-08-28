@@ -7,7 +7,7 @@ var config = {
     phone: '<a href="tel:+17272228244">727-222-8244</a>',
     email: "gilbertobbarraza@gmail.com",
     address: '<a href="https://www.linkedin.com/in/gil-barraza-91533748/" target="_blank">LinkedIn Profile</a>',
-    qq: '<strong>Portfolio:</strong> <a href="https://gilligan122.infinityfreeapp.com/" target="_blank">gilligan122.infinityfreeapp.com</a>',
+    qq: '<strong>Portfolio:</strong> <a href="https://gilbertobbarraza.github.io/Portafolio/" target="_blank">https://gilbertobbarraza.github.io/Portafolio</a>',
     log: "Gilberto Barraza",
     excpect_work: "L3 Application Support / Production Engineering / SRE / DevOps",
 
