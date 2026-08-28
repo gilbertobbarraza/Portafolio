@@ -3,7 +3,7 @@ var config = {
 
     name: "Gilberto Barraza",
     sex: "Technology Specialist / Senior Technology Engineer",
-    age: "Production Support • SRE • DevOps",
+    age: "Orlando, FL",
     phone: '<a href="tel:+17272228244">727-222-8244</a>',
     email: "gilbertobbarraza@gmail.com",
     address: '<a href="https://www.linkedin.com/in/gil-barraza-91533748/" target="_blank">LinkedIn Profile</a>',
